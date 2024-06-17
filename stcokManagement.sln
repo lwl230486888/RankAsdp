@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stcokManagement", "stcokManagement\stcokManagement.csproj", "{098B0ED5-A34B-4AAF-8F66-6B3983FCCABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{098B0ED5-A34B-4AAF-8F66-6B3983FCCABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098B0ED5-A34B-4AAF-8F66-6B3983FCCABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098B0ED5-A34B-4AAF-8F66-6B3983FCCABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098B0ED5-A34B-4AAF-8F66-6B3983FCCABD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {878637A7-0F5E-4B41-9542-7B7B6A02A3A2}
+	EndGlobalSection
+EndGlobal
